@@ -1,0 +1,12 @@
+# Site settings
+title: Chase Cybersecurity Inc.
+email: info@chasecybersecurity.ca
+description:  # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://chasecybersecurity.ca" # the base hostname & protocol for your site
+
+twitter_username:
+phone: 250.419.7641
+
+# Build settings
+markdown: kramdown
