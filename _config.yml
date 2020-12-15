@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://chasecybersecurity.ca" # the base hostname & protocol for your site
 
 twitter_username:
-phone: 250.419.7641
+phone: (778) 700-2556
 
 # Build settings
 markdown: kramdown
